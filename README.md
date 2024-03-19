@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jnn002
 - 👀 I’m interested in become a...
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Well I dunno
+- 💞️ I’m looking to collaborate on Azure DevOps
 - 📫 How to reach me... soon
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bananas are berries, what?
