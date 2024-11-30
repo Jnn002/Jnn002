@@ -6,7 +6,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bananas are berries, what?
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jnn002&layout=compact)
 
 <!---
