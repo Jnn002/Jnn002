@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jnn002
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning FastAPI and Angular
 - 💞️ I’m looking to collaborate on Azure DevOps
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jnn002&layout=compact)
